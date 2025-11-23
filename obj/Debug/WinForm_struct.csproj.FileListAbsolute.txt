@@ -1,0 +1,5 @@
+D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.csproj.AssemblyReference.cache
+D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.Form1.resources
+D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.Properties.Resources.resources
+D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.csproj.GenerateResource.cache
+D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.csproj.CoreCompileInputs.cache

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\minwoo\\WinForm_struct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\minwoo\\WinForm_struct\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:14:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\minwoo\\WinForm_struct\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:01:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
