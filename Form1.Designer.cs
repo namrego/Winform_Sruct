@@ -29,8 +29,11 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+=======
+>>>>>>> d3cd7055e63e4a35cce8b159de3cdf341d75b0bc
             this.SuspendLayout();
             // 
             // button1
@@ -42,6 +45,7 @@
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(334, 117);
@@ -60,13 +64,18 @@
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
             // 
+=======
+>>>>>>> d3cd7055e63e4a35cce8b159de3cdf341d75b0bc
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
+=======
+>>>>>>> d3cd7055e63e4a35cce8b159de3cdf341d75b0bc
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -77,8 +86,11 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
+<<<<<<< HEAD
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+=======
+>>>>>>> d3cd7055e63e4a35cce8b159de3cdf341d75b0bc
     }
 }
 
