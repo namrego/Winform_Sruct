@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\minwoo\\WinForm_struct\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|c:\\users\\user\\desktop\\\uACF5\uBD80\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|d:\\minwoo\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1376AC32-0854-49DA-855E-C30A2AFED2C0}|WinForm_struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\minwoo\\WinForm_struct\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwDoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T08:14:32.133Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\minwoo\\WinForm_struct\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwC4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T08:01:33.103Z",
               "EditorCaption": ""
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\minwoo\\WinForm_struct\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\minwoo\\WinForm_struct\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uACF5\uBD80\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T05:17:08.96Z",
