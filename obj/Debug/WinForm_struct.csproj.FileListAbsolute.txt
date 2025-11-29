@@ -3,3 +3,14 @@ D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.Form1.resources
 D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.Properties.Resources.resources
 D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.csproj.GenerateResource.cache
 D:\minwoo\WinForm_struct\obj\Debug\WinForm_struct.csproj.CoreCompileInputs.cache
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.csproj.AssemblyReference.cache
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.Form1.resources
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.Properties.Resources.resources
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.csproj.GenerateResource.cache
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.csproj.CoreCompileInputs.cache
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\bin\Debug\WinForm_struct.exe.config
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\bin\Debug\WinForm_struct.exe
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\bin\Debug\WinForm_struct.pdb
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.exe
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.pdb
+C:\Users\daesu93.academy\Downloads\Winform_Sruct-master\Winform_Sruct-master\obj\Debug\WinForm_struct.exe.config

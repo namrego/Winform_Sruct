@@ -243,8 +243,6 @@
         private System.Windows.Forms.TextBox textBox1;
 
         #endregion
-=======
->>>>>>> d3cd7055e63e4a35cce8b159de3cdf341d75b0bc
     }
 }
 
